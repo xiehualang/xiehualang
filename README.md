@@ -22,8 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=xiehualang&theme=dracula)
-
 **🐱 My GitHub Data** 
 
 > 📦 xxx kB Used in GitHub's Storage 
