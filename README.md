@@ -4,8 +4,6 @@
 ### ⚡️ A Few Quick Facts
 
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=xiehualang&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
 <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
     <li> 👯 I’m looking to collaborate on anything open source.</li>
@@ -23,6 +21,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
 
 > 📦 xxx kB Used in GitHub's Storage 
  > 
@@ -36,5 +35,4 @@
  > 
 **I'm an Early 🐤** 
 ```
- Last Updated on 07/09/2023 08:22:06 UTC
-<!--END_SECTION:waka-->
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xiehualang&theme=dracula)
