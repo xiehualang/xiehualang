@@ -5,6 +5,7 @@
 
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=xiehualang&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
 <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
     <li> 👯 I’m looking to collaborate on anything open source.</li>
