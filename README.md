@@ -8,7 +8,7 @@
     <li> 🌱 I’m currently learning Linux、Android、Kotlin</li>
     <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="http://www.xiehualang.cn/">http://www.xiehualang.cn/</a>.</li>
-    <li> ⚡ Fun fact: I ❤️ 😻.</li>
+    <li> ✋ ✌️ ☝️ ✊ ✍️</li>
 </ul>
 
 ### 🌗 Development Breakdown
