@@ -20,8 +20,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.9%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xiehualang&theme=dracula)
+
+**🐱 My GitHub Data** 
 
 > 📦 xxx kB Used in GitHub's Storage 
  > 
@@ -35,4 +38,3 @@
  > 
 **I'm an Early 🐤** 
 ```
-![](https://github-readme-activity-graph.cyclic.app/graph?username=xiehualang&theme=dracula)
