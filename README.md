@@ -9,6 +9,9 @@
     <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="http://www.xiehualang.cn/">http://www.xiehualang.cn/</a>.</li>
     <li> ✋ ✌️ ☝️ ✊ ✍️</li>
+    <li>   <a href="https://github.com/xiehualang">
+    <img src="https://komarev.com/ghpvc/?username=xiehualang&color=brightgreen&label=👁%20Views" />
+  </a>  </li>
 </ul>
 
 ### 🌗 Development Breakdown
@@ -16,9 +19,9 @@
 <img src="https://komarev.com/ghpvc/?username=xiehualang" alt="xiehualang" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C213%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C213%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.7%20thousand%20lines%20of%20code-blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehualang&layout=compact&theme=tokyonight)
 
