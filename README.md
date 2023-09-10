@@ -37,5 +37,4 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
 ```
