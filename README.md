@@ -9,9 +9,6 @@
     <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="http://www.xiehualang.cn/">http://www.xiehualang.cn/</a>.</li>
     <li> ✋ ✌️ ✊ </li>
-    <li>   <a href="https://github.com/xiehualang">
-    <img src="https://komarev.com/ghpvc/?username=xiehualang&color=brightgreen&label=👁%20Views" />
-  </a>  </li>
 </ul>
 
 ### 🌗 Development Breakdown
