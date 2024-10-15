@@ -7,7 +7,7 @@
 <ul>
     <li> 🌱 I’m currently learning Linux、Android、Kotlin</li>
     <li> 👯 Read the fucking source code</li>
-    #<li> 📝 I regulary write articles on <a href="http://www.xiehualang.cn/">http://www.xiehualang.cn/</a>.</li>
+    <!--<li> 📝 I regulary write articles on <a href="http://www.xiehualang.cn/">http://www.xiehualang.cn/</a>.</li>-->
     <li> ✋ ✌️ ✊ </li>
 </ul>
 
